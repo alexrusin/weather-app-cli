@@ -1,0 +1,9 @@
+ ## Прогноз погоды
+Эта программа даёт прогноз погоды .
+
+Mailrom Tools (Mailroom server and Mailroom Clerk client) help you develop locally against web hooks, HTTP callbacks from a remote server.
+
+## Usage
+
+### Step 1 (remote server)
+Create an account on [Mailroom server](https://mailroom.myapi.website).  After logging in, create a route.  Register "Hook URL" with a remote service that is going to send you WebHooks, or use an app for interacting with HTTP APIs, such as Postman, to send requests to created "Hook URL".
